@@ -12,7 +12,6 @@ Customizer Magic: Head over to Customizer > Header > Tablet/Mobile Menu. Add the
 
 And voilà! Your mobile tabbed menu is now ready to dazzle your visitors. Don't forget to add extra elements to make it uniquely yours.
 Oh, and about that custom plugin? It's the secret sauce that brings the sliding menu feature to life for the "ct-sliding" class. Just ensure it's doing its magic behind the scenes.
-https://github.com/tdmrhn/blocksy-sliding-mobile-menu
 
 Happy designing! 🚀
 
