@@ -2,7 +2,7 @@
 /*
 Plugin Name: Blocksy Custom Sliding Mobile Menu
 Description: Custom sliding mobile menu, only works for Content Blocks > WP Core Navigation Block (add ct-sliding class)
-Version: 0.1
+Version: 0.3
 Author: dmrhn
 Author URI: https://dmrhn.com
 */
