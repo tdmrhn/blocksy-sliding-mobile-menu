@@ -36,7 +36,6 @@ ul.ct-sliding ul {
 .ct-sliding li:not(.back):hover > .ct-menu-link {
   color: var(--theme-link-hover-color) !important;
 }
-
 .ct-sliding .ct-toggle-dropdown-mobile:hover {
   --toggle-button-border-color: var(--theme-link-hover-color) !important;
 }
@@ -48,14 +47,12 @@ ul.ct-sliding ul {
   font-size: var(--theme-font-size);
   font-weight: var(--theme-font-weight);
 }
-
 .ct-sliding .ct-toggle-dropdown-mobile {
   --toggle-button-margin-end: 10px !important;
   --toggle-button-radius: 3px;
   --toggle-button-border-width: 1px;
   --toggle-button-border-color: currentColor;
 }
-
 .wp-block-navigation .wp-block-navigation-item,
 .wp-block-navigation-submenu {
   position: unset !important;
